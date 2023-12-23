@@ -1,0 +1,31 @@
+{
+  "miniprogramRoot": "dist/",
+  "projectname": "taro-mp-image-gen-demo",
+  "description": "在Taro.js微信小程序中生成图片用于卡片封面、图片分享的demo；主要关注图片生成的方法；",
+  "appid": "wx6be2fb7200c48505",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "enhance": false,
+    "compileHotReLoad": false,
+    "postcss": false,
+    "minified": false,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    }
+  },
+  "compileType": "miniprogram",
+  "libVersion": "3.2.5",
+  "srcMiniprogramRoot": "dist/",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "condition": {},
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  }
+}
